@@ -8,8 +8,11 @@ A data analysis project exploring factors affecting hotel booking cancellations 
 ## Table of Contents
 
 Overview 
+
 Technologies Used 
+
 Dataset 
+
 Key Insights
 
 
